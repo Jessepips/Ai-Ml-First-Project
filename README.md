@@ -1,2 +1,1 @@
-# ui-ux
-my first ui/ux design 
+Tech Crush Practical Project 
